@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Lato;
+}
+
+.input1 {
+  width: 50%;
+  padding-left: 5px;
+}
+
+p {
+  padding-left: 20%;
+}
+
+.dropDown {
+  margin: 10px;
+  margin-left: 40.5%;
+}
+
+.input1::placeholder {
+  font-size: 14px;
+}
